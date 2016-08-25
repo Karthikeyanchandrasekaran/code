@@ -3,11 +3,9 @@ package reverse;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class unique {
+public class subset {
 
-	/**
-	 * @param args
-	 */
+
 	public static void main(String[] args) {
 		int count=0;
 		ArrayList n=new ArrayList();
