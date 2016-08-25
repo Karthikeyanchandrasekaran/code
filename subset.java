@@ -38,11 +38,11 @@ public class unique {
 		{
 			System.out.println("array 1:"+n);
 			System.out.println("array 2:"+m);
-			System.out.println("a1 is the subset of b");
+			System.out.println("a1 is the subset of a2");
 		}
 		else
 		{
-			System.out.println("a1 is not a subset of b");
+			System.out.println("a1 is not a subset of a2");
 		}
 	}
 
